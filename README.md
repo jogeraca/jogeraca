@@ -2,19 +2,19 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?logo=telegram&logoColor=white)](https://t.me/jogeraca)[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?logo=gmail&logoColor=white)](mailto:jogeraca@gmail.com)[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-3177C6?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jogeraca)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C988%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C029%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 84 Contributions in the Year 2022
+> 🏆 86 Contributions in the Year 2022
  > 
 > 📦 136.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -31,5 +31,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2022 23:16:55 UTC
+ Last Updated on 18/12/2022 23:15:35 UTC
 <!--END_SECTION:waka-->
